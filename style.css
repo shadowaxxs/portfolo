@@ -50,6 +50,7 @@ body {
     height: 100vh;
     padding: 0 10%;
     background: url(./home.jpg) no-repeat ;
+    background-size: cover;
 }
 
 .home-content {
